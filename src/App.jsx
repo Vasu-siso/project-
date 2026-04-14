@@ -54,7 +54,7 @@ export default function FlowerShop() {
     { id: 18, name: "Single Flower Bouquet", price: 230, img: sft, category: "flower bouquet", summary: "A neat single bouquet with a handmade finish that feels simple and special." },
     { id: 19, name: "Small Flower Key Chain", price: 60, img: sfk, category: "key chain", summary: "A mini flower key chain for a light, colorful everyday accessory." },
     { id: 20, name: "Star Key Chain", price: 30, img: skc, category: "key chain", summary: "A star-shaped handmade key chain with a cute, playful personality." },
-    { id: 21, name: "Two Sunflower Pot", price: 150, img: tsfp, category: "flower pot", summary: "A double sunflower pot arrangement that brings extra warmth and brightness." },
+    { id: 21, name: "Sunflower Pot (1 pcs)", price: 150, img: tsfp, category: "flower pot", summary: "A double sunflower pot arrangement that brings extra warmth and brightness." },
     { id: 22, name: "White Bear Key Chain", price: 30, img: wb, category: "key chain", summary: "An adorable white bear key chain that makes a sweet gift or bag charm." },
     { id: 23, name: "Faux Lavender Flower Pot", price: 150, img: lav, category: "flower pot", summary: "A faux lavender pot with a calm, soothing look for home decor." },
      { id: 24, name: "Sun-Flower Pot", price: 150, img: sun, category: "flower pot", summary: "A cheerful sunflower pot that brightens desks, shelves, and gifting moments." },
